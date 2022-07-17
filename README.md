@@ -1,5 +1,5 @@
 ## DSMeta 🎯
-Clothing shop made using React & firebase with Stripe payments implemented.
+ Web page with integrated backend and frontend, using different technologies, in the backend I used entities, database, database seed, data listing, REST API, SMS integration, while in the frontend I used React, JS, TypeScript, HTML and CSS. And for the integration of the frontend with the backend I used requests with Axios, React Hook useEffect, query parameters and implementation in the cloud.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/spring-react-dsmeta?color=green)
 ![Top language](https://img.shields.io/github/languages/top/letnagao/spring-react-dsmeta?color=ff69b4)
