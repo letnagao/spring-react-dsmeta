@@ -1,9 +1,12 @@
-import Header from './components/header';
-import SalesCard from './components/sales-card';
+import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
+import Header from './components/header'
+import SalesCard from './components/sales-card'
 
 function App() {
   return (
     <>
+      <ToastContainer />
       <Header />
       <main>
         <section id="sales">
@@ -16,4 +19,4 @@ function App() {
   )
 }
 
-export default App;
+export default App
