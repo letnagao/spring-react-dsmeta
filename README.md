@@ -19,7 +19,7 @@ https://spring-react-dsmeta.netlify.app/
 
 ## Technologies used 🛠️
 ✔️ **Languages**: *Java, SQL, JS, HTML, CSS, TypeScript*<br />
-✔️ **Deployment**: *Heroku*<br />
+✔️ **Deployment**: *Heroku & Netlify*<br />
 ✔️ **Database**: *H2*<br />
 ✔️ **API Client**: *Postman & Twilio*<br />
 ✔️ **Frameworks**: *Spring Boot, JPA & React*<br />
