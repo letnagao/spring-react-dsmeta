@@ -35,12 +35,14 @@ https://spring-react-dsmeta.netlify.app/
 ~ git clone https://github.com/letnagao/spring-react-dsmeta.git
 #2. cd into it
 ~ cd spring-react-dsmeta
-#3. install server dependencies
+#3. frontend: cd into it
+~ cd frontend 
+#4. install server dependencies
 ~ yarn 
 #3. install client dependencies
 ~ cd client && yarn 
 #4. run app (both client & server)
-~ yarn run dev
+~ yarn dev
 ```
 *available scripts*
 ```bash
