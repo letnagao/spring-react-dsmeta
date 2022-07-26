@@ -6,7 +6,7 @@
 ![Repo size](https://img.shields.io/github/repo-size/letnagao/spring-react-dsmeta?color=yellow)
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/spring-react-dsmeta?color=blue)
 ![Latest commit](https://img.shields.io/github/last-commit/letnagao/spring-react-dsmeta?color=red)
-[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/spring-react-dsmeta?logo=GitHub)](https://github.com/letnagao/crwn-clothing/watchers)
+[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/spring-react-dsmeta?logo=GitHub)](https://github.com/letnagao/spring-react-dsmeta/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 </ul><h2> Preview ⚡️</h2>
